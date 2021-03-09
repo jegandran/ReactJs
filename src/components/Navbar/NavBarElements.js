@@ -85,7 +85,7 @@ export const NavBtn = styled.div`
 display: flex;
 align-items: center;
 
-@media screen and (max:width: 768px) {
+@media screen and (max-width: 768px) {
 display: none;    
 }
 `
